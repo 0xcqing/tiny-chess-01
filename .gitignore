@@ -1,1 +1,5 @@
 transcripts.tar.gz
+chess.py
+variant.py
+__pycache__/
+.makefun/
